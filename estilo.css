@@ -1,0 +1,55 @@
+
+.secao-capa{
+    background-image: url('img/capa.jpg');
+    min-height: 800px;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    width: 300px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+h2{
+    background-color: red;
+    width: 300px;
+    margin: 0 auto;
+    height: 50px;
+    color: white;
+}
+
+.secao-personagens{
+    text-align: center;
+}
+
+.secao-drestranho{
+    background-image: url('img/img1.jpg');
+    min-height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+}
+
+h3{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    padding: 10px;
+}
+
+span{
+    background-color: rgb(180, 163, 163);
+    color: rgb(190, 7, 7);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
